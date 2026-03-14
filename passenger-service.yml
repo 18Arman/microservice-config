@@ -3,9 +3,9 @@ server:
 
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/passenger_db
+    url: jdbc:mysql://localhost:3306/micro_db
     username: root
-    password: your_mysql_password
+    password: Root@123
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     hibernate:
